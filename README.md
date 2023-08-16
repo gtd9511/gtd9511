@@ -2,6 +2,8 @@
 
 <a href="https://profile.intra.42.fr/users/sanghan" target="_blank"><img src="https://img.shields.io/badge/42seoul-FFFFFF?style=for-the-badge&logo=42&logoColor=000000"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtd9511&show_icons=true&theme=radical)
+
 <!--
 **gtd9511/gtd9511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
