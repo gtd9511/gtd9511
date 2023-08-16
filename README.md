@@ -4,6 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtd9511&show_icons=true&theme=radical)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydj02109)](https://solved.ac/백준아이디/)
 <!--
 **gtd9511/gtd9511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
